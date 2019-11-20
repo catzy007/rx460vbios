@@ -1,0 +1,39 @@
+GPU Device Id: 0x1002 0x67FF
+113-34830M4-U02
+E348030 P21 XT GDDR5 256Mx32 4GB 214e/300m
+(C) 1988-2010, Advanced Micro Devices, Inc.
+ATOMBIOSBK-AMD VER015.050.002.001.000000
+348X05MF.U32
+CCC Overdrive Limits
+  GPU Clock: 1800 MHz
+  Memory Clock: 2000 MHz
+PowerTune Limit: -75% to +75%
+Limits
+  TDP: 60 W
+  TDC Power: 62 A
+  Battery Power: 62 W
+  Small Power Power: 62 W
+  Max. Power Limit: 62 W
+  Max. Temp: 85°C
+GPU Clocks
+  214 MHz, 603 MHz, 958 MHz, 1060 MHz
+  1128 MHz, 1182 MHz, 1230 MHz, 1300 MHz
+Memory Clocks
+  300 MHz, 625 MHz, 1750 MHz
+Temperature Target: 74 °C
+Memory Support
+  4096 MB, GDDR5, Micron MT51J256M32HF
+Memory Timings (Micron)
+  tRCDW-tRCDWA-tRCDR-tRCDRA-tRC-tCL-tRFC
+  200 MHz: 0-3-2-3-7-7-21
+  400 MHz: 0-3-5-5-15-8-43
+  800 MHz: 5-5-11-11-31-12-87
+  1000 MHz: 9-9-14-14-39-15-109
+  1250 MHz: 13-13-18-18-50-18-137
+  1375 MHz: 15-15-20-20-55-20-151
+  1425 MHz: 16-16-21-21-57-20-156
+  1500 MHz: 17-17-22-22-60-21-164
+  1625 MHz: 19-19-24-24-65-22-178
+  1750 MHz: 21-21-26-26-70-23-192
+  1875 MHz: 22-22-28-28-75-24-206
+  2000 MHz: 23-23-29-29-79-25-219
