@@ -10,6 +10,8 @@ sudo mv atiflash /bin
 ```
 sudo atiflash -i
 sudo atiflash
+sudo atiflash -f -p 0 Sapphire.RX560.4096.170419.rom
+sudo atiflash -f -p 0 Sapphire.RX460.4096.Micron.Ori.rom 
 ```
 
 > Tested on Xubuntu 18.04
